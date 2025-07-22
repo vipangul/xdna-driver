@@ -1,3 +1,4 @@
 [submodule "xrt"]
 	path = xrt
-	url = https://github.com/Xilinx/XRT.git
+	url = https://github.com/pgschuey/XRT.git
+        branch = aie_base_restructure
